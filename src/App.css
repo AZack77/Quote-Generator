@@ -1,0 +1,54 @@
+body
+{
+  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+  color: white;
+}
+.App {
+  text-align: center;
+}
+
+h2{
+  margin-top: 20px;
+}
+.btn
+{
+  margin-top: 10px;
+}
+
+button{
+  background-color: rgb(254, 254, 254);
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  padding: 10px 10px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+  transition:  0.4s;
+  border: none;
+}
+
+button:hover
+{
+  background-color: #f59208;
+  /* transform: scale(0.6); */
+}
+.container
+{
+  background-color: #000000;
+  margin-left: 340px;
+  margin-top: 130px;
+  width: 600px;
+  height: 220px;
+  padding: 30px;
+  box-sizing: border-box;
+  border:  0px  solid black;
+  box-shadow: 2px 2px 10px 1px rgb(0, 0, 0);
+  border-radius: 5px;
+}
+
+.twt-btn
+{
+  margin-left: 10px;
+  border: none;
+  border-style: none;
+}
